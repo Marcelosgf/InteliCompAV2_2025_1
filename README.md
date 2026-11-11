@@ -60,9 +60,9 @@ Gradient Boosting
 
 4.3. Resultados
 Melhor modelo: Random Forest com:
-MAE = 2884.60 (erro médio absoluto)
-RMSE = 6881.90 (erro médio absoluto)
-R² = 0.97 (excelente ajuste aos dados).
+MAE = 3335,33 (erro médio absoluto)
+RMSE = 8246,19 (erro médio absoluto)
+R² = 0,9748 (excelente ajuste aos dados).
 Pior modelo: Regressão Linear e Ridge,ambos tiveram desempenho similar e ruim comparado aos outros.
 XGBoost teve bom desempenho com relação ao R², mas ainda assim, inferior ao Random Forest.
 
