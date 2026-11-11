@@ -72,5 +72,4 @@ Experiência e Educação Impactam Salários:
 Anos de experiência e nível de escolaridade têm forte correlação com salários.
 Diferenças Salariais por Gênero:
 Homens têm salários médios maiores, mas é necessário análise mais aprofundada (ex.: mesmo cargo e experiência).
-Random Forest é o Melhor Modelo:
-Teve o menor erro (MAE = 15k) e melhor explicação da variância (R² = 0.97).
+Random Forest é o Melhor Modelo: variância R² = 0.97
